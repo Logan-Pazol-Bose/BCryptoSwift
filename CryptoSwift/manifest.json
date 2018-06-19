@@ -1,6 +1,0 @@
-{
-    
-    "release": "https://github.com/krzyzanowskim/CryptoSwift/releases/download/0.10.0/CryptoSwift.framework.zip",
-    "frameworks": ["CryptoSwift.framework"]
-    
-}
